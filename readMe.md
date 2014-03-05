@@ -1,0 +1,1 @@
+Source code here is used for learning Gradle Manual Demo
